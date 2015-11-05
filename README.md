@@ -1,6 +1,6 @@
 # Khan Academy - Infinite Cat Attack
-<strong>Javascript + Processing.js<br>
-Originally completed 5/29/2015</strong>
+<strong>Language: Javascript + Processing.js</strong></br>
+Originally completed 5/29/2015
 
 Ok, this is the first thing I’ve made that I feel really excited to show people =D
 
